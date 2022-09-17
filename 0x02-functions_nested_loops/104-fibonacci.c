@@ -21,7 +21,7 @@ int main(void)
 			printf(", ");
 		i++;
 	}
-	//putchar('\n');
+	/*putchar('\n');*/
 	printf("\n");
 	return (0);
 }
